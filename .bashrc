@@ -125,7 +125,7 @@ bash_prompt() {
 	local WHITE_BOLD="\[\033[1;38;5;15m\]"
 	local GRAY_BOLD="\[\033[1;90m\]"
 	local BLUE_BOLD="\[\033[1;38;5;74m\]"
-	local YELLOW_BOLD="\[\033[1;38;5;11m\]"
+	local YELLOW_BOLD="\[\033[1;38;5;190m\]"
 	
 	
 	
